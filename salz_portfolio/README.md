@@ -1,2 +1,0 @@
-# salz_portfolio
- Portfolio
